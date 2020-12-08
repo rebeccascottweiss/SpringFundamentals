@@ -1,0 +1,19 @@
+.container{ 
+	margin: 10em auto; 
+	padding: 2em; 
+	border: 3px solid black;
+}; 
+
+form {
+	display: flex; 
+	flex-direction: column; 
+	align-items: flex-start;
+}
+
+input {
+	margin: 1em; 
+}; 
+
+h3 {
+	text-decoration: underline; 
+}
